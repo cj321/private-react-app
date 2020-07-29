@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import { HashRouter, Route, Switch } from 'react-router-dom'
-import Login from '@/login/login'
+import Login from '@/login/login.jsx'
 
 function App() {
   return (
